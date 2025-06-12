@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <!-- Pongo un comentario para intentar hacer un commit -->
+
     <EditText
         android:id="@+id/etNombre"
         android:layout_width="0dp"
